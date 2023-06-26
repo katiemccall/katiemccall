@@ -1,0 +1,40 @@
+html {
+  font-size: 20px; 
+  font-family: 'Caprasimo', cursive;
+  background-color: #F8F6F6;
+
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #EDE7E9;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+P,
+Li {
+
+	font-size: 15px;
+	font-family:'Belanosima', sans-serif;
+	line-height: 2;
+	letter-spacing: 1px;
+
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: black;
+  text-shadow: 3px 3px 5px black;
+}
+
+Img {
+	display: block;
+  	margin: 0 auto;
+	Width: 500px;
+
+}
